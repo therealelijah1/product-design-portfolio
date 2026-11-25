@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "name": "UnifiedBeez",
+      "role": "Founding Product Designer",
+      "platform": ["web", "mobile"],
+      "screens_designed": null,
+      "status": "shipped"
+    },
+    {
+      "name": "Reconnect Studio",
+      "role": "Founder and Product Designer",
+      "platform": ["web"],
+      "screens_designed": null,
+      "status": "ongoing"
+    }
+  ],
+  "notes": "Fill screens_designed and outcome metrics per project as case studies are finalized."
+}
